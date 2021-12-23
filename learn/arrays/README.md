@@ -6,7 +6,7 @@ datatype[] arrayName
 ```
 
 - `dataType` - it can be primitive data types  `int`, `char`, `double`, `byte`, etc.
-- `arrayName` - it is an identifier
+- `arrayName` - it is an identifier.
 
 
 ---
@@ -26,7 +26,7 @@ String[] num = new String[10]
 int num[] = {2,7,1,9,7}
 ```
 
-- Note that we have not provided the size of the array. In this case, the Java compiler automatically specifies the size by counting the number of elements in the array 
+- Note that we have not provided the size of the array. In this case, the Java compiler automatically specifies the size by counting the number of elements in the array.
 
 ```java
 //declare
