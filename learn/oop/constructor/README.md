@@ -2,7 +2,7 @@
 
 ```java
 class Test {
-
+    
     //Constructor
     Test(){
         System.out.println("Hello World");
@@ -13,13 +13,11 @@ class Test {
 `Test()` is a constructor. It has same name as of className and doesn't have a return type.
 
 ---
-
 <br>
 
 ## Types of Constructor
 
--   ### No-Arg Constructor
-
+- ### No-Arg Constructor
     If a constructor does not accept any parameters, it is known as a no-argument constructor.
 
     ```java
@@ -27,10 +25,7 @@ class Test {
         // body
     }
 
-    ```
-
--   ### Parameterized Constructor
-
+- ### Parameterized Constructor
     Constructor having one or more parameters.
 
     ```java
@@ -38,18 +33,17 @@ class Test {
         // body
     }
 
-    ```
-
--   ### Java Default Constructor
+- ### Java Default Constructor
     If we do not create any constructor, the Java compiler automatically create a no-arg constructor during the execution of the program. This constructor is called default constructor.
-          | Type     | Default Value  |
-          | -------- | -------------- |
-          | boolean  | false          |
-          | byte     | 0              |
-          | short    | 0              |
-          | int      | 0              |
-          | long     | 0L             |
-          | char     | \u0000         |
-          | float    | 0.0f           |
-          | double   | 0.0d           |
-          | object   | Reference null |
+    
+        | Type     | Default Value  |
+        | -------- | -------------- |
+        | boolean  | false          |
+        | byte     | 0              |
+        | short    | 0              |
+        | int      | 0              |
+        | long     | 0L             |
+        | char     | \u0000         |
+        | float    | 0.0f           |
+        | double   | 0.0d           |
+        | object   | Reference null |
