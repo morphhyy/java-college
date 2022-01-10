@@ -13,7 +13,7 @@ The `<param>` tag is a sub tag of the `<applet>` tag. The `<param>` tag contains
 ```
 Now, these two parameters can be accessed in the applet program using the getParameter() method of the Applet class.
 
-## _getParamater() Method
+## _getParamater() Method_
 The getParameter() method of the Applet class can be used to retrieve the parameters passed from the HTML page.
 
 ```java
