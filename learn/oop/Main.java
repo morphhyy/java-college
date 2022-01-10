@@ -14,3 +14,4 @@ class Main {
       System.out.println("Sum: " + result);
     }
   }
+
