@@ -1,4 +1,4 @@
-### _Due Date: 2022-01-13_
+#### _Due Date: 2022-01-13_
 
 ## Lab 3: Applet and Basic AWT and Swing components with event handling.
 1. WAP to demonstrate the lifecycle methods of applet.
