@@ -1,0 +1,5 @@
+Name = "Bibek" address="Pokhara" salary = 50000
+Name = "Dipesh" address="Kathmandu" salary = 50000
+Name = "Ajit" address="Pokhara" salary = 50000
+Name = "Sanjay" address="Kathmandu" salary = 50000
+Name = "Nishanta" address="Pokhara" salary = 50000
